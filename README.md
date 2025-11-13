@@ -64,7 +64,7 @@ Automation complete! Open 'lv_client_report.xlsx' in Microsoft Excel to view tab
 - **Real Data Integration**: Replace mock data with actual CRM exports (e.g., CSV import) or connect to production databases (e.g., PostgreSQL via psycopg2).
 
 ## Relevance to Client Insights & CRM
-It directly tackles dashboard/report creation and task automation using Python, SQL, and Excel—areas highlighted as focus points. By automating RFM segmentation, it can help identify clients for targeted campaigns, reducing manual Excel work and enabling quicker insights.
+It directly tackles dashboard/report creation and task automation using Python, SQL, and Excel. By automating RFM segmentation, it can help identify clients for targeted campaigns, reducing manual Excel work and enabling quicker insights.
 
 ## Limitations
 - Mock data is random; results vary per run.
